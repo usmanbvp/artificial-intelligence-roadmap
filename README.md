@@ -69,3 +69,71 @@ Join us and let's explore the limitless possibilities of artificial intelligence
     Denoising
     Sampling
     
+## Data Science Roadmap
+### Statistics
+#### Probability Theory
+     Randomness, random variable and random sample 
+     Probability distribution
+     Conditional probability and Bayes's theorem
+     (Statistical) independence
+     iid(Independent and Identically distributed random variables)
+     Cumulative distribution function(cdf)
+     Probability density function(pdf)
+     Probability mass function(pmf)
+#### Continuous distributions(pdf's)
+     Normal/ Gaussian
+     Uniform (continuous)
+     Beta 
+     Dirichlet
+     Exponential 
+     Chi-squared distribution
+#### Discrete distributions (pmf's)
+     Uniform (discrete)
+     Binomial 
+     Multinomial 
+     Hypergeometric
+     Poisson
+     Geometric
+#### Summary statistics
+     Expectation and mean
+     Variance and standard deviation(sd)
+     Covariance and correlation
+     Median, Quartile
+     Interquartile range
+     Percentile / quantile
+     Mode
+#### Important Laws
+     Law of large numbers (LLN)
+     Central limit theorem (CLT)
+#### Estimation
+     Maximum Likelihood Estimation( MLE) 
+     Kernel Density Estimation (KDE)
+#### Hypothesis Testing
+     p-Value
+     Chi squared test
+     F-test
+     t-test
+#### Confidence Interval ( CI)
+#### Monte Carlo Method
+
+### Visualization
+
+#### Chart Suggestions thought starter
+     About different charts
+### steamlit
+#### Python
+     Matplotlib
+     plotnine(like ggploy in R)
+     Bokeh
+     seaborn
+     ipyvolume(3D data)
+#### Web 
+     Vega-Lite
+     D3.js
+#### Dashboards
+     Dash
+#### BI(Business Intelligence)
+     Tableau
+     PowerBI
+     
+     
