@@ -136,4 +136,70 @@ Join us and let's explore the limitless possibilities of artificial intelligence
      Tableau
      PowerBI
      
+## Machine Learning
+### General
+#### Concepts, Inputs & Attributes
+     Categorical Variables
+     Ordinal Variables
+     Numerical Variables
+#### Cost functions and gradient descent
+#### Overfitting / Underfitting
+#### Training, Validation and test data
+#### Precision vs Recall 
+#### Bias & Variance
+#### Lift(data mining)
+
+### Methods
+#### Supervised Learning
+##### Regression 
+      Linear Regression
+      Poisson Regression
+##### Classification
+      Classification Rate
+      Decision Trees
+      Logistic Regression
+      Naive Bayes Classifiers
+      K- Nearest Neighbour
+      SVM
+      Gaussian Mixture Models
+#### Unsupervised Learning
+##### Clustering
+      Hierarchical Clustering
+      K-Means Clustering
+      DBSCAN
+      HBDSCAN
+      Fuzzy C-Means
+      Mean Shift
+      Agglomerative
+      OPTICS
+##### Association Rule Learning
+      Apriori Algorithm 
+      ECLAT algorithm 
+      FP Trees
+##### Dimensionality Reduction
+      Principal Component Analysis (PCA) 
+      Random Projection
+      NMF
+      T-SNE
+      UMAP
+      
+##### Ensemble Learning
+      Boosting
+      Bagging
+      Stacking 
+##### Reinforcement Learning
+      Q-Learning
+
+### Use Cases
+    Sentiment Analysis
+    Collaborative Filtering
+    Tagging 
+    Prediction
+
+### Tools
+    scikit-learn 
+    spacy(NLP)
+      
+     
+
      
