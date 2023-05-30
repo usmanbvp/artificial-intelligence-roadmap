@@ -120,7 +120,7 @@ Join us and let's explore the limitless possibilities of artificial intelligence
 
 #### Chart Suggestions thought starter
      About different charts
-### steamlit
+### streamlit
 #### Python
      Matplotlib
      plotnine(like ggploy in R)
@@ -199,6 +199,77 @@ Join us and let's explore the limitless possibilities of artificial intelligence
 ### Tools
     scikit-learn 
     spacy(NLP)
+    
+## Deep Learning
+### Neural Networks
+    Understanding Neural Networks
+    Loss Functions
+    Activation Functions
+    Weight Initialization
+    Vanishing/ Exploding Gradient Problem
+### Architectures
+#### Feedforward neural network
+#### Autoencoder
+#### Convolutional Neural Network(CNN)
+     Pooling
+#### Recurrent Neural Network(RNN)
+     LSTM
+     GRU
+#### Transformer
+     Encoder
+     Decoder
+     Attention
+#### Siamese Network
+#### Generative Adversarial Network (GAN)
+#### Evolving Architectures / NEAT
+#### Residual Connections
+
+### Training
+#### Optimizers
+     SGD
+     Momentum
+     Adam
+     AdaGrad
+     AdaDelta
+     Nadam 
+     RMSProp
+#### Learning Rate Schedule
+#### Batch Normalization
+#### Batch Size Effects
+#### Regularization
+     Early Stopping
+     Dropout
+     Parameter Penalties
+     Data Augmentation
+     Adversarial Training
+#### Multitask Learning
+#### Transfer Learning
+#### Curriculum Learning
+
+### Tools
+#### Import Libraries
+     Awesome Deep Learning
+     Huggingface Transformers
+#### Tensorflow
+#### PyTorch
+#### Tensorboard
+#### ML Flow
+
+### Model optimization(advanced)
+#### Distillation
+#### Quantization
+#### Neural Architecture Search(NAS)
+  
+  
+  
+  ###### ---------------Keep Exploring and Stay up-to-date---------------------------------
+
+
+
+ 
+
+
+    
       
      
 
