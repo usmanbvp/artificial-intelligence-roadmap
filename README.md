@@ -1,5 +1,5 @@
 
- # Arificial Intelligence Complete Course
+ # Arificial Intelligence Roadmap
 
 Welcome to the Artificial Intelligence Course! This repository contains all the necessary resources and materials to help you learn and understand the concepts and applications of artificial intelligence.
 
@@ -22,7 +22,7 @@ Join us and let's explore the limitless possibilities of artificial intelligence
 
 
 ## Fundamentals
-### Basics
+### [Basics]('https://www.youtube.com/')
 ####  Matrices & Linear  Algebra Fundamentals
 ####  Database basics 
         Relational vs. Non-Relational Databases
